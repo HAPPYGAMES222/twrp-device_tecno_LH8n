@@ -40,7 +40,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/virtual_ab_ota.mk)
 
 # Device identifier
 PRODUCT_DEVICE := LH8n
-PRODUCT_NAME :TECNO-LH8n
+PRODUCT_NAME := twrp_LH8n
 PRODUCT_BRAND := Tecno
 PRODUCT_MODEL := TECNO LH8n
 PRODUCT_MANUFACTURER := Tecno
